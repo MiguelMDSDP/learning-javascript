@@ -25,3 +25,8 @@ In this lesson we learned how to use commentaries and variables.
 ### Lesson 3
 
 In this lesson we learned how to treat numbers and strings.
+
+## Documentation
+
+1. [Mozilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+2. [ECMA Browseable](https://www.ecma-international.org/ecma-262/10.0/index.html#Title)
