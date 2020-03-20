@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 01
 
 In this lesson we developed our first script to an simple stylized page.
 
