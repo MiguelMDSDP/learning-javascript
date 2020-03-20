@@ -14,17 +14,21 @@ In this course we are learning javascript, so the lesson documentation shows the
 
 ## Lessons
 
-### Lesson 1
+### Lesson 01
 
 In this lesson we developed our first script to an simple stylized page.
 
-### Lesson 2
+### Lesson 02
 
 In this lesson we learned how to use commentaries and variables.
 
-### Lesson 3
+### Lesson 03
 
 In this lesson we learned how to treat numbers and strings.
+
+### Lesson 04
+
+In this lesson we learned how to use the javascript operators.
 
 ## Documentation
 
