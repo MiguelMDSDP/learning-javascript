@@ -30,6 +30,10 @@ In this lesson we learned how to treat numbers and strings.
 
 In this lesson we learned how to use the javascript operators.
 
+### Lesson 05
+
+In this lesson we understood the Document Object Model (DOM).
+
 ## Documentation
 
 1. [Mozilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
