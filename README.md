@@ -17,3 +17,7 @@ In this course we are learning javascript, so the lesson documentation shows the
 ### Lesson 1
 
 In this lesson we developed our first script to an simple stylized page.
+
+### Lesson 2
+
+In this lesson we learned how to use commentaries and variables.
