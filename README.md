@@ -21,3 +21,7 @@ In this lesson we developed our first script to an simple stylized page.
 ### Lesson 2
 
 In this lesson we learned how to use commentaries and variables.
+
+### Lesson 3
+
+In this lesson we learned how to treat numbers and strings.
