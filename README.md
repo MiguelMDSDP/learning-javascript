@@ -34,6 +34,10 @@ In this lesson we learned how to use the javascript operators.
 
 In this lesson we understood the Document Object Model (DOM).
 
+### Lesson 06
+
+In this lesson we learned how to use DOM events.
+
 ## Documentation
 
 1. [Mozilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
