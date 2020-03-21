@@ -38,6 +38,10 @@ In this lesson we understood the Document Object Model (DOM).
 
 In this lesson we learned how to use DOM events.
 
+### Lesson 07
+
+In this lesson we learned how to use conditions in Javascript.
+
 ## Documentation
 
 1. [Mozilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

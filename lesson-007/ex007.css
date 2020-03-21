@@ -1,0 +1,12 @@
+body {
+    font: normal 18pt Arial;
+}
+
+h1 {
+    font: bold 24pt Arial;
+}
+
+input {
+    font: normal 18pt Arial;
+    width: 100px;
+}
