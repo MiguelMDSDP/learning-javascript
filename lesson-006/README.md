@@ -14,3 +14,5 @@ In this lesson we learned how to use DOM events.
 - **mousedown**: event that occurs when the mouse is held down on an element;
 - **mouseup**: event that occurs when the mouse is released on an element;
 - **click** event that occurs when the mouse is clicked on an element.
+
+### Exercise 06
