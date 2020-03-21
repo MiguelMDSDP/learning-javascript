@@ -42,6 +42,14 @@ In this lesson we learned how to use DOM events.
 
 In this lesson we learned how to use conditions in Javascript.
 
+### Lesson 08
+
+In this lesson we developed an interactive page that shows the hour of the day.
+
+### Lesson 09
+
+In this lesson we developed an interactive page that shows the age of the user.
+
 ## Documentation
 
 1. [Mozilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

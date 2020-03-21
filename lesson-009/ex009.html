@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="ex009.css">
+
+    <title>Age Verificator</title>
+</head>
+
+<body>
+    <header>
+        <h1>Age Verificator</h1>
+    </header>
+
+    <section>
+        <div>
+            <p>
+                Birth year:
+                <input type="number" name="text-year" id="text-year" min="0">
+            </p>
+            <p>
+                Genre:
+                <input type="radio" name="radio-sex" id="male" checked>
+                <label for="male">Male</label>
+                <input type="radio" name="radio-sex" id="female">
+                <label for="female">Female</label>
+            </p>
+            <p>
+                <input type="button" value="Verify!" onclick="verify()">
+            </p>
+        </div>
+
+        <div id="result">
+            Fill out the form above to see the result.
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; MiguelMDSDP</p>
+    </footer>
+
+    <script src="ex009.js"></script>
+</body>
+
+</html>
